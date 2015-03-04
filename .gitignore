@@ -26,3 +26,14 @@
 *.exe
 *.out
 *.app
+
+.DS_Store
+.gitignore
+.cocos-project.json
+CMakeLists.txt
+proj.android/
+proj.linux/
+proj.wp8-xaml/
+proj.win32/
+proj.ios_mac/
+cocos2d/
